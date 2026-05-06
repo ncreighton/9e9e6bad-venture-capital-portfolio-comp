@@ -1,2 +1,31 @@
-# 9e9e6bad-venture-capital-portfolio-comp
-A Notion workspace for venture capital firms and family offices managing portfolio company performance. Features a portfolio company database with metrics tracking across ARR, burn rate, runway, headcount, and last funding round data, a board meeting notes library with action item tracking, a co-investor relationship manager, exit pipeline tracker 
+# Venture Capital Portfolio Company Monitoring and Reporting Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E7sLcLl0bWcVW7jCcZa0R)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E7sLcLl0bWcVW7jCcZa0R)
+- [Buy on Gumroad](https://aevornsell.gumroad.com/l/plfkoy)
+- [Buy on Whop](https://whop.com/venture-capital-portfolio-company-monitoring-and-reporting-notion-template)
+
